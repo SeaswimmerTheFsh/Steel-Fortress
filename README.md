@@ -13,7 +13,7 @@
 
 * Enjoy an improved mining experience due to Caves and Cliffs Backport! 
 
-* Jump into technology with **PneumaticCraft: Repressurized** and **Immersive **Engineering! 
+* Jump into technology with **PneumaticCraft: Repressurized** and **Immersive Engineering**! 
 
 * Fear the horde.... 
  
