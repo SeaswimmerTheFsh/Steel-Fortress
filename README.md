@@ -1,17 +1,19 @@
 # Welcome to the Apocalypse
 
+# **This version of the modpack is in active development, do not expect compatibility with the actual server. We have a testing server used for development that should be kept up to date with this repository. If you want a version compatible with the server, please see the [CurseForge Page](https://www.curseforge.com/minecraft/modpacks/steel-fortress).**
+
 ### Steel Fortress is a modpack focused on PvE, Tech, and Magic, where you can:
-* Create elaborate contraptions! 
+* **Create** elaborate contraptions! 
 
-* Explore the Nether and the End with Infernal Expansion and The Endergetic Expansion! 
+* Explore the Nether and the End with **Infernal Expansion** and **The Endergetic Expansion**! 
 
-* Improve your stats with PlayerEx! 
+* Improve your stats with **PlayerEx**! 
 
-* Delve into magic with Astral Sorcery and Ars Nouveau! 
+* Delve into magic with **Astral Sorcery** and **Ars Nouveau**! 
 
-* Enjoy an improved mining experience due to Caves and Cliffs Backport and Mining Master! 
+* Enjoy an improved mining experience due to Caves and Cliffs Backport! 
 
-* Jump into technology with PneumaticCraft: Repressurized and Immersive Engineering! 
+* Jump into technology with **PneumaticCraft: Repressurized** and **Immersive Engineering**! 
 
 * Fear the horde.... 
  
