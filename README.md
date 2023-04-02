@@ -18,5 +18,5 @@
 * Fear the horde.... 
  
 
-### This Modpack was intended for use on the GalacticFactory server, which can be found [here](https://discord.com/invite/SSUBDAkKdP).
+### This Modpack was intended for use on the GalacticFactory server, which can be found [here](https://invite.galacticfactory.cc).
 ### I ONLY PROVIDE SUPPORT TO THOSE PLAYING ON THE **GalacticFactory** SERVER.
