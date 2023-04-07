@@ -1,0 +1,12 @@
+[
+  {
+    "serverName": "GalacticFactory",
+    "serverIP": "play.galacticfactory.cc",
+    "forceResourcePack": "true"
+  },
+  {
+    "serverName": "GalacticFactory Development",
+    "serverIP": "dev.galacticfactory.cc",
+    "forceResourcePack": "true"
+  }
+]

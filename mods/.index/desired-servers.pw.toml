@@ -1,0 +1,14 @@
+name = "Desired Servers"
+filename = "desiredservers-forge-1.19.2-1.1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/GDpe4LHD/versions/f1DrQcQt/desiredservers-forge-1.19.2-1.1.0.jar"
+hash-format = "sha512"
+hash = "8bb4b8432e3cca4cc51cadb17e308abd1f8a00adc5077d75ec3d14d2d0cc3f1b5ec4b72c8cdae27e134ca9bee54c670bd5b8b0770528aef0591b05cbf2d961eb"
+
+[update]
+[update.modrinth]
+mod-id = "GDpe4LHD"
+version = "f1DrQcQt"

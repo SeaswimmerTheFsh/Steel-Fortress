@@ -1,0 +1,14 @@
+name = "Just Enough Immersive Multiblocks"
+filename = "jeimultiblocks-1.19.2-0.0.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ffLYPaWN/versions/a7cSVxhQ/jeimultiblocks-1.19.2-0.0.3.jar"
+hash-format = "sha512"
+hash = "7e1213168e0855ef78cfa1b903a09037572384151abc2fccfbd056aae5c5897debe70898274e053198183c8ff73eee27bb1a2f0cc07a2aba38a3ae4b0d7cbe4c"
+
+[update]
+[update.modrinth]
+mod-id = "ffLYPaWN"
+version = "a7cSVxhQ"

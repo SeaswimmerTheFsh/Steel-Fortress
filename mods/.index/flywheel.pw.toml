@@ -1,0 +1,14 @@
+name = "Flywheel"
+filename = "flywheel-forge-1.19.2-0.6.8.a.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/5lpsZoRi/versions/wvGHsmul/flywheel-forge-1.19.2-0.6.8.a.jar"
+hash-format = "sha512"
+hash = "f34ca96759667c82b9ccaf2218ef6d6a9055cfbd722b760fa14484dad3f7444f09fb621bf3c129f177d671c446e26c903311c36233447551b549f8649d82482e"
+
+[update]
+[update.modrinth]
+mod-id = "5lpsZoRi"
+version = "wvGHsmul"

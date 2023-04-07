@@ -1,0 +1,14 @@
+name = "ChoiceTheorem's Overhauled Village - ImmersiveEngineering Add-on"
+filename = "ctov-immersive-engineering-add-on-1.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Zi15pXgt/versions/YyedZYdp/ctov-immersive-engineering-add-on-1.1.jar"
+hash-format = "sha512"
+hash = "02f698e714529a557bd16e932c114fea49eccdb51d01f7b8a820cbac95ec25aca3c83fe7925e946a92434adfb8a7fc159ce0c2fd294e79a0f69d340cf227b51e"
+
+[update]
+[update.modrinth]
+mod-id = "Zi15pXgt"
+version = "YyedZYdp"

@@ -1,0 +1,14 @@
+name = "Xaero Arrow Fix"
+filename = "xaeroarrowfix-forge-1.1+1.19.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "b2a74cbb1a9841b5151ad6d3e4e86c6e0c56783f"
+
+[update]
+[update.curseforge]
+file-id = 4446582
+project-id = 827985

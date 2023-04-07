@@ -1,0 +1,14 @@
+name = "Quark"
+filename = "Quark-3.4-396.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/qnQsVE2z/versions/ieBJd6v7/Quark-3.4-396.jar"
+hash-format = "sha512"
+hash = "3eb6f5a46bbac0401b4138097e1bd5fb6dc3e37036a076e347cd079750eaa4018a2e57d8f15a823216218c13228a75dcfeff7b114aeb7a6dc50bce2c07a04d77"
+
+[update]
+[update.modrinth]
+mod-id = "qnQsVE2z"
+version = "ieBJd6v7"

@@ -1,0 +1,14 @@
+name = "Just Another Rotten Flesh to Leather Mod"
+filename = "JRFTL [1.19.1]-1.4.3.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "70277b252bfd525df11f2f1ed71afc66772154ab"
+
+[update]
+[update.curseforge]
+file-id = 4459026
+project-id = 247136

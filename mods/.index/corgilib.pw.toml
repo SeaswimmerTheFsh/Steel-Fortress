@@ -1,0 +1,14 @@
+name = "CorgiLib"
+filename = "CorgiLib-forge-1.19.2-1.0.0.32.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ziOp6EO8/versions/zKAOoIVh/CorgiLib-forge-1.19.2-1.0.0.32.jar"
+hash-format = "sha512"
+hash = "07f2330208f7309db20b31ec1ed90742d99df735c11a79220291188aa32cba847c6dd506079693d2e198198bca82407c5bb9824b143f869e8fdb3489a0555152"
+
+[update]
+[update.modrinth]
+mod-id = "ziOp6EO8"
+version = "zKAOoIVh"

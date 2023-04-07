@@ -1,0 +1,14 @@
+name = "ChoiceTheorem's Overhauled Village - Waystone Add-on"
+filename = "ctov-waystone-compat-1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/70yluNSI/versions/dhfJy800/ctov-waystone-compat-1.0.jar"
+hash-format = "sha512"
+hash = "26b50ba754693e24c57236232c3abdcf5aab18d5e4b3c20cd2886d9ea6bde691b108c28601c3c4470dd3637e8546d770355bd89b92b58d09b8f4a503dc536bc8"
+
+[update]
+[update.modrinth]
+mod-id = "70yluNSI"
+version = "dhfJy800"

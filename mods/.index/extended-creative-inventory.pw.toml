@@ -1,0 +1,14 @@
+name = "Extended Creative Inventory"
+filename = "extendedcreativeinventory-1.19.2-2.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/BGhINW6Q/versions/LOgtlwry/extendedcreativeinventory-1.19.2-2.1.jar"
+hash-format = "sha512"
+hash = "83bcb6a71ae37c57e20e42748d73cf2b3b6606aa451d22b6b8a08faeaefc0ffd8c0eaee7c1a92656f57d99c7fab994f66b0a7d7bef346a63ebdf4ceded0697a1"
+
+[update]
+[update.modrinth]
+mod-id = "BGhINW6Q"
+version = "LOgtlwry"
